@@ -1,5 +1,5 @@
 # **La Java des Bons-Enfants**  
-**[XXe siècle] [Anarchisme] [Lutte des classes]**  
+``XXe siècle`` ``Anarchisme`` ``Lutte des classes``
 
 ## **Vidéo YouTube**  
 {% embed url="https://www.youtube.com/watch?v=tDfH6PinENg" %}
