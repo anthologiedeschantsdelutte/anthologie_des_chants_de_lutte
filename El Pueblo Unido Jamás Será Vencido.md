@@ -1,14 +1,12 @@
-# **El Pueblo Unido Jamás Será Vencido**  
+# El Pueblo Unido Jamás Será Vencido 
 ``XXe siècle`` ``Lutte des classes`` ``Révolution``
 
-## **Vidéo YouTube**  
+## Vidéo YouTube
 {% embed url="https://www.youtube.com/watch?v=kTLrFjYt8tA" %}
 
 ---
-## Paroles (Espagnol) / Traduction (Français)
-
-> **Espagnol** | **Français**  
-> --- | ---  
+## Paroles (Espagnol)
+ 
 > De pie, luchar | Debout, combattez  
 > Que vamos va a triunfar | Nous allons triompher  
 > Avanzan ya | Déjà avancent  
@@ -75,10 +73,79 @@
 > El pueblo unido, jamás será vencido | Le peuple uni ne sera jamais vaincu  
 > El pueblo unido, jamás será vencido | Le peuple uni ne sera jamais vaincu  
 > El pueblo unido (Lara-lara-lara) | Le peuple uni (Lara-lara-lara)  
+  
+## Traduction (Français)
+
+> Debout, combattez  
+> Nous allons triompher  
+> Déjà avancent  
+> Les drapeaux de l'unité  
+> Et toi, tu viendras  
+> Marchant à mes côtés  
+> Et ainsi tu verras  
+> Ton chant et ton drapeau fleurir  
+> La lumière  
+> D'une aube rouge  
+> Annonce déjà  
+> La vie qui viendra  
+> Debout, combattez  
+> Le peuple va triompher  
+> Ce sera mieux  
+> La vie qui viendra  
+> Pour conquérir  
+> Notre bonheur  
+> Et dans un cri  
+> Mille voix de combat s’élèveront  
+> Ils diront  
+> Chanson de liberté  
+> Avec détermination  
+> La patrie vaincra  
+> Et maintenant le peuple  
+> Qui se lève dans la lutte  
+> Avec une voix de géant  
+> Criant : en avant !  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> La patrie est  
+> Forgée dans l'unité  
+> Du nord au sud  
+> Elle se mobilisera  
+> Depuis le salin  
+> Ardente et minérale  
+> Vers la forêt australe  
+> Unis dans la lutte et le travail  
+> Ils iront  
+> Ils couvriront la patrie  
+> Leur pas déjà  
+> Annonce l'avenir  
+> Debout, combattez  
+> Le peuple va triompher  
+> Des millions déjà  
+> Imposent la vérité  
+> Ils sont d’acier  
+> Bataillon ardent  
+> Leurs mains vont  
+> Portant la justice et la raison  
+> Femme  
+> Avec du feu et du courage  
+> Tu es déjà ici  
+> Aux côtés du travailleur  
+> Et maintenant le peuple  
+> Qui se lève dans la lutte  
+> Avec une voix de géant  
+> Criant : en avant !  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni ne sera jamais vaincu  
+> Le peuple uni (Lara-lara-lara)
 
 ---
 
-## **Analyse du texte**  
+## Analyse du texte
 
 *"El pueblo unido jamás será vencido"* est un chant révolutionnaire chilien, écrit en 1973 par **Sergio Ortega** et interprété par **Quilapayún**. Il est rapidement devenu un hymne de résistance après le coup d’État de Pinochet et s’est diffusé à l’international.  
 
@@ -95,5 +162,7 @@ Ce morceau est repris dans de nombreuses manifestations et luttes à travers le 
 
 ---
 
-## **Conclusion**  
+## Conclusion 
 *"El pueblo unido jamás será vencido"* est plus qu’une simple chanson : c’est un cri de ralliement pour tous les opprimés. Son message traverse les époques et les frontières, rappelant que la solidarité est une force essentielle pour toute transformation sociale.  
+
+## Sources
