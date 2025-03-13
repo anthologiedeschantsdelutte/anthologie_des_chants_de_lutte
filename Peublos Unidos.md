@@ -1,72 +1,27 @@
-# **Peublos Unidos**  
+# **El Pueblo Unido Jamás Será Vencido**  
 ``XXe siècle`` ``Lutte des classes`` ``Révolution``
 
 ## **Vidéo YouTube**  
 {% embed url="https://www.youtube.com/watch?v=kTLrFjYt8tA" %}
 
 ---
+## Paroles (Espagnol) / Traduction (Français)
 
-## **Paroles (Espagnol)**  
-
-> El pueblo unido jamás será vencido,  
-> El pueblo unido jamás será vencido...  
-
-> De pie, cantar  
-> que vamos a triunfar,  
-> avanzan ya  
-> banderas de unidad,  
-> y tú vendrás  
-> marchando junto a mí,  
-> y así verás  
-> tu canto y tu bandera florecer,  
-> la luz de un rojo amanecer  
-> anuncia ya  
-> la vida que vendrá.  
-
-> De pie, luchar  
-> el pueblo va a triunfar,  
-> será mejor  
-> la vida que vendrá,  
-> a conquistar  
-> nuestra felicidad,  
-> y en un clamor  
-> mil voces de combate se alzarán,  
-> dirán canción  
-> de libertad,  
-> con decisión  
-> la patria vencerá.  
-
----
-
-## **Traduction (Français)**  
-
-> Le peuple uni ne sera jamais vaincu,  
-> Le peuple uni ne sera jamais vaincu...  
-
-> Debout, chante,  
-> car nous allons triompher,  
-> les drapeaux de l’unité  
-> avancent déjà,  
-> et toi, tu viendras  
-> marchant à mes côtés,  
-> et ainsi tu verras  
-> ton chant et ton drapeau s’épanouir,  
-> la lumière d’une aube rouge  
-> annonce déjà  
-> la vie qui viendra.  
-
-> Debout, lutte,  
-> le peuple va triompher,  
-> la vie qui vient  
-> sera meilleure,  
-> à la conquête  
-> de notre bonheur,  
-> et dans un cri  
-> mille voix de combat s’élèveront,  
-> elles diront une chanson  
-> de liberté,  
-> avec détermination  
-> la patrie vaincra.  
+| **Espagnol** | **Français** |  
+|-------------|-------------|  
+| > ¡El pueblo unido jamás será vencido! | > Un peuple uni ne sera jamais vaincu ! |  
+| > De pie, cantar que vamos a triunfar | > Debout, chantez, nous allons triompher |  
+| > Avanzan ya banderas de unidad | > Déjà avancent les drapeaux de l’unité |  
+| > Y tú vendrás marchando junto a mí | > Et toi, tu viendras marchant à mes côtés |  
+| > Y así verás tu canto y tu bandera | > Et ainsi tu verras ton chant et ton drapeau |  
+| > Florecer, la luz de un rojo amanecer | > Fleurir, la lumière d’une aube rouge |  
+| > Anuncia ya la vida que vendrá | > Annonce déjà la vie qui viendra |  
+| > De pie, luchar, el pueblo va a triunfar | > Debout, combattez, le peuple va triompher |  
+| > Será mejor la vida que vendrá | > La vie qui viendra sera meilleure |  
+| > A conquistar nuestra felicidad | > Pour conquérir notre bonheur |  
+| > Y en un clamor mil voces de combate se alzarán | > Et dans un cri, mille voix de combat s’élèveront |  
+| > Dirán, canción de libertad | > Ils diront : chanson de liberté |  
+| > Con decisión la patria vencerá | > Avec détermination, la patrie vaincra | 
 
 ---
 
