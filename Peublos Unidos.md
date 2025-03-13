@@ -1,8 +1,8 @@
 # **Peublos Unidos**  
-**[XXe siècle] [Lutte des classes] [Révolution]**  
+``XXe siècle`` ``Lutte des classes`` ``Révolution``
 
-## **🎥 Vidéo YouTube**  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IstzHJGydzU" frameborder="0" allowfullscreen></iframe>  
+## **Vidéo YouTube**  
+{% embed url="https://www.youtube.com/watch?v=kTLrFjYt8tA" %}
 
 ---
 
