@@ -2,7 +2,7 @@
 **[XXe siècle] [Anarchisme] [Lutte des classes]**  
 
 ## **Vidéo YouTube**  
-{% embed url="[URL_HERE](https://www.youtube.com/watch?v=tDfH6PinENg)" %}
+{% embed url="https://www.youtube.com/watch?v=tDfH6PinENg" %}
 
 ---
 
