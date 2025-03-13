@@ -5,14 +5,14 @@ Depuis des siècles, la musique accompagne les luttes sociales, les révolutions
 
 ---
 
-## Pourquoi cette anthologie ?  
+## Pourquoi ?
 
 > "La musique a toujours été un outil de contestation, un cri de ralliement pour les opprimés."  
 De la Commune de Paris aux luttes actuelles, en passant par les chants révolutionnaires, le folk engagé et le rap militant, cette collection met en lumière les hymnes de la gauche.  
 
 ---
 
-## Ajouter une chanson à l'anthologie  
+## Ajouter une chanson
 
 Pour ajouter une chanson à cette anthologie, suivez ces étapes simples :
 
