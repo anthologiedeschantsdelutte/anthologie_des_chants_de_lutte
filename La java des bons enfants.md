@@ -1,4 +1,4 @@
-# **La Java des Bons-Enfants**  
+# La Java des Bons-Enfants
 ``XXe siècle`` ``Anarchisme`` ``Lutte des classes``
 
 ## **Vidéo YouTube**  
@@ -6,7 +6,7 @@
 
 ---
 
-## **Paroles**  
+## Paroles
 
 > Dans la rue des Bons Enfants,  
 > On vend tout au plus offrant,  
@@ -78,7 +78,7 @@
 
 ---
 
-## **Analyse du texte**  
+## Analyse du texte 
 
 ### **1. Contexte historique et politique**  
 Cette chanson s’inscrit dans la tradition anarchiste et révolutionnaire. La **rue des Bons-Enfants** fait référence à un commissariat détruit par un attentat anarchiste en 1892 à Paris. Cet événement s’inscrivait dans une période où les anarchistes prônaient **l’action directe** contre les symboles de l’État et du capitalisme.  
@@ -104,5 +104,7 @@ La solution proposée est une **révolution radicale**, qui ne laisse aucune pla
 
 ---
 
-## **Conclusion**  
+## Conclusion
 "La Java des Bons-Enfants" est un hymne anarchiste appelant à l’action directe contre l’État et le capitalisme. Avec son ton provocateur et violent, elle exprime une rage révolutionnaire qui trouve encore aujourd’hui un écho dans les mouvements libertaires.  
+
+## Sources
