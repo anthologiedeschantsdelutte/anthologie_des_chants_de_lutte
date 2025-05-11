@@ -147,22 +147,17 @@
 
 ## Analyse du texte
 
-*"El pueblo unido jamás será vencido"* est un chant révolutionnaire chilien, écrit en 1973 par **Sergio Ortega** et interprété par **Quilapayún**. Il est rapidement devenu un hymne de résistance après le coup d’État de Pinochet et s’est diffusé à l’international.  
+### **Contexte historique**
 
-### **1. Le message politique**  
-La chanson appelle à l’unité populaire face à l’oppression. Elle exprime la certitude que le peuple, s’il reste uni, peut vaincre toutes les forces qui cherchent à l’écraser. Le vocabulaire martial (*lutter, triompher, combat, liberté*) traduit la volonté de mobilisation et d’émancipation.  
-
-### **2. La symbolique des paroles**  
-- *"La lumière d’un rouge amanecer"* → Le rouge évoque à la fois le socialisme et l’espoir d’un changement révolutionnaire.  
-- *"Notre bonheur"* → Il ne s’agit pas d’un bonheur individuel, mais collectif, basé sur la justice sociale.  
-- *"La patrie vaincra"* → Une vision nationaliste progressiste, opposée au patriotisme réactionnaire des dictatures.  
-
-### **3. Un chant universel**  
-Ce morceau est repris dans de nombreuses manifestations et luttes à travers le monde. Il symbolise l’espoir des mouvements progressistes et la résistance contre les régimes autoritaires.  
+« El pueblo unido jamás será vencido » (« Le peuple uni jamais ne sera vaincu ») est une chanson chilienne écrite par le groupe Quilapayún et composée par Sergio Ortega en 1973, peu avant le coup d’État de Pinochet. Créée en soutien au gouvernement de Salvador Allende, elle devient rapidement un hymne de la résistance et de la solidarité populaire au Chili, puis dans le monde entier.
+Son refrain, scandé lors de nombreuses manifestations, est devenu un symbole universel de lutte pour la liberté, la démocratie et l’unité des peuples opprimés. La chanson a été traduite dans de nombreuses langues et reprise lors de mouvements sociaux dans de nombreux pays[^1][^3][^4].
 
 ---
 
-## Conclusion 
-*"El pueblo unido jamás será vencido"* est plus qu’une simple chanson : c’est un cri de ralliement pour tous les opprimés. Son message traverse les époques et les frontières, rappelant que la solidarité est une force essentielle pour toute transformation sociale.  
-
 ## Sources
+
+- https://fr.wikipedia.org/wiki/El_pueblo_unido_jam%C3%A1s_ser%C3%A1_vencido
+- https://criduchoeur.jimdofree.com/répertoire/el-pueblo-unido/paroles-et-accords/
+- https://www.tourisme-chili.com/art-culture/pueblo-unido
+- https://www.lesglottesrebelles.com/el-pueblo-unido/
+- https://www.youtube.com/watch?v=TDkFxQSMRdI
