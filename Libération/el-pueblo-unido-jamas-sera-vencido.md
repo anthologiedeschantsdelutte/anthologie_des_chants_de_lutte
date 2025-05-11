@@ -1,5 +1,4 @@
 # El Pueblo Unido Jamás Será Vencido 
-``XXe siècle`` ``Lutte des classes`` ``Révolution``
 
 ## Vidéo YouTube
 {% embed url="https://www.youtube.com/watch?v=kTLrFjYt8tA" %}
@@ -150,7 +149,7 @@
 ### **Contexte historique**
 
 « El pueblo unido jamás será vencido » (« Le peuple uni jamais ne sera vaincu ») est une chanson chilienne écrite par le groupe Quilapayún et composée par Sergio Ortega en 1973, peu avant le coup d’État de Pinochet. Créée en soutien au gouvernement de Salvador Allende, elle devient rapidement un hymne de la résistance et de la solidarité populaire au Chili, puis dans le monde entier.
-Son refrain, scandé lors de nombreuses manifestations, est devenu un symbole universel de lutte pour la liberté, la démocratie et l’unité des peuples opprimés. La chanson a été traduite dans de nombreuses langues et reprise lors de mouvements sociaux dans de nombreux pays[^1][^3][^4].
+Son refrain, scandé lors de nombreuses manifestations, est devenu un symbole universel de lutte pour la liberté, la démocratie et l’unité des peuples opprimés. La chanson a été traduite dans de nombreuses langues et reprise lors de mouvements sociaux dans de nombreux pays.
 
 ---
 
