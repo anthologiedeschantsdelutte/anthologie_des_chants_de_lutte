@@ -1,6 +1,7 @@
 # Sommaire
 
-- [Introduction](./- Introduction -/README.md)
+- [Introduction](./README.md)
+- [Sommaire](./SUMMARY.md)
 
 ## Anarchisme
 - [La Java des bons enfants](./Anarchisme/la-java-des-bons-enfants.md)
@@ -18,10 +19,11 @@ _(À compléter)_
 ## Libération
 - [El pueblo unido jamás será vencido](./Libération/el-pueblo-unido-jamas-sera-vencido.md)
 
-## Ouvriers et syndicalistes
-- [Bandiera Rossa](./Ouvriers et syndicalistes/bandiera-rossa.md)
-- [L'Internationale](./Ouvriers et syndicalistes/l-internationale.md)
-
 ## Révolution et Guerre Civile
-- [Le Temps des cerises](./Revolution et Guerre Civile/le_temps_des_cerises.md)
-- [Marsa Rojava](./Revolution et Guerre Civile/marsa_rojava.md)
+- [Le Temps des cerises](./Revolution%20et%20Guerre%20Civile/le_temps_des_cerises.md)
+- [Marsa Rojava](./Revolution%20et%20Guerre%20Civile/marsa_rojava.md)
+- [El pueblo unido jamás será vencido](./Revolution%20et%20Guerre%20Civile/el_pueblo_unido.md)
+
+## Ouvriers et syndicalistes
+- [Bandiera Rossa](./Ouvriers%20et%20syndicalistes/bandiera-rossa.md)
+- [L'Internationale](./Ouvriers%20et%20syndicalistes/l-internationale.md)
