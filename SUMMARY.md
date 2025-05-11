@@ -22,7 +22,6 @@ _(À compléter)_
 ## Révolution et Guerre Civile
 - [Le Temps des cerises](./Revolution%20et%20Guerre%20Civile/le_temps_des_cerises.md)
 - [Marsa Rojava](./Revolution%20et%20Guerre%20Civile/marsa_rojava.md)
-- [El pueblo unido jamás será vencido](./Revolution%20et%20Guerre%20Civile/el_pueblo_unido.md)
 
 ## Ouvriers et syndicalistes
 - [Bandiera Rossa](./Ouvriers%20et%20syndicalistes/bandiera-rossa.md)
